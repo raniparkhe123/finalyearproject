@@ -1,0 +1,6 @@
+.black-select, .black-select::placeholder, .black-select option{
+    color: #333333;
+}
+#to_station{
+    background: transparent;
+}
